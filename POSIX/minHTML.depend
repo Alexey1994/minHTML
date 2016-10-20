@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1476022462 source:d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\extends.c
+	"extends.h"
+
+1476037906 d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\extends.h
+	<stdlib.h>
+
+1476960894 source:d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\tests.c
+	<stdio.h>
+	"minHTML.h"
+
+1476960938 source:d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\minhtml.c
+	"minHTML.h"
+
+1476954433 d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\minhtml.h
+	"lib/prefix tree.h"
+	"lib/stream.h"
+	"lib/string.h"
+
+1472067730 d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\lib\prefix tree.h
+
+1476458757 d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\lib\stream.h
+	"array.h"
+	"../extends.h"
+
+1476010942 d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\lib\array.h
+
+1476480760 d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\lib\string.h
+	"character.h"
+
+1476022632 d:\Программирование\Мои исходники\c\Пакеты\minhtml парсер\src\lib\character.h
+	"../extends.h"
+

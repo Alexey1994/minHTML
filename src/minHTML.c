@@ -30,12 +30,6 @@ void initialize_minHTML_parser()
     add_data_in_prefix_tree(once_tags, "param", 1);
     add_data_in_prefix_tree(once_tags, "source", 1);
     add_data_in_prefix_tree(once_tags, "wbr", 1);
-
-    add_data_in_prefix_tree(once_tags, "embed", 1);
-    add_data_in_prefix_tree(once_tags, "embed", 1);
-    add_data_in_prefix_tree(once_tags, "embed", 1);
-    add_data_in_prefix_tree(once_tags, "embed", 1);
-    add_data_in_prefix_tree(once_tags, "embed", 1);
 }
 
 
